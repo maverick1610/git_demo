@@ -27,6 +27,7 @@ class Calculator:
         print(result)
         return result
 
-
-
+if __name__ == '__main__':
+    operation = Calculator()
+    operation.add()
 
